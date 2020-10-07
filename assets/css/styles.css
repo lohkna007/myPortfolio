@@ -213,10 +213,11 @@ img{
   color: var(--first-color);
 }
 .home__img{
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  width: 230px;
+ position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
 } 
 
 
