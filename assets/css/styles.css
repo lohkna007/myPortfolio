@@ -217,7 +217,8 @@ img{
   right: 25%;
   left: 25%;
   bottom: 0;
-  width: 200px;
+  width: 230px;
+  border-radius: .9rem;
 } 
 
 /*BUTTONS*/
