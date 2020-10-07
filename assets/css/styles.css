@@ -214,8 +214,7 @@ img{
 }
 .home__img{
   position: absolute;
-  right: 25%;
-  left: 25%;
+  right: 0;
   bottom: 0;
   width: 230px;
   border-radius: .9rem;
