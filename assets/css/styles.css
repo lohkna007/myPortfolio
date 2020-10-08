@@ -218,12 +218,13 @@ img{
   bottom: 0;
   width: 220px;
 }
-@media screen and (max-width: 800px){
+@media screen and (max-width: 768px){
   .home__img{
   position: absolute;
   right: 25%;
   left: 25%;
-  bottom: 10%;
+  top: 10%;
+  bottom: 0;
   width: 290px;
   height: auto;
   }
