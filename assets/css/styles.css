@@ -217,9 +217,17 @@ img{
   right: 0;
   bottom: 0;
   width: 220px;
-  max-width: 100%;
+}
+@media screen and (max-width: 800px){
+  .home__img{
+  position: absolute;
+  right: 25%;
+  left: 25%;
+  bottom: 10%;
+  width: 290px;
   height: auto;
-} 
+  }
+}
 
 
 /*BUTTONS*/
